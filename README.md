@@ -1,0 +1,1 @@
+A simple, stylish, and responsive **Basic Calculator** built using HTML, CSS, and JavaScript. This web application allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division. The project is designed with a modern interface and features an intuitive layout.
